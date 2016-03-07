@@ -11,3 +11,16 @@ public class Main extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
+public class Password {
+
+    public DetermineState();
+
+    public int ReturnCurrentValue(){
+
+        return 0;
+    }
+
+
+
+}
